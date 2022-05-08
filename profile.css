@@ -1,0 +1,69 @@
+body{
+   display: flex;
+   margin: 40px 115px;
+   border:1px solid black ;
+}
+.cart{
+    width: 492px;
+    height: 880px;
+    background-color: rgb(219 218 240);
+}
+img{
+    border-radius: 80%;
+   margin-left: 39px;
+   margin-top: 25px;
+}
+h2{
+    text-align: center;
+}
+h1{
+    border-bottom: 1px solid black;
+    text-align: center;
+    width: 197px;
+    margin-left: 55px;
+    margin-top: 40px;
+    color: rgb(94, 229, 229);
+}
+.contact_content{
+    margin-left: 51px;
+}
+b{
+    font-size:20px;
+}
+.hobbies{
+    margin-left: 50px;  
+}
+.side_bar{
+    width: 100%;
+    font-size: 20px;
+   
+}
+h3{
+    width: 63%;
+    font-size: 34px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-left: 172px;
+    margin-top: 60px;
+    color: rgb(94, 229, 229);
+}
+
+.introduce{
+    margin-left: 50px;  
+}
+.career_goals{
+    margin-left: 256px;  
+    margin-top: 70px;
+}
+.education{
+    margin-left: 256px;  
+    margin-top: 70px;
+}
+.specialize{
+    margin-left: 256px;  
+    margin-top: 70px;
+}
+.soft_skills{
+    margin-left: 256px;  
+    margin-top: 70px;
+}
